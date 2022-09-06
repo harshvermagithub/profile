@@ -1,1 +1,1 @@
-Personal websites are becoming nearly as standard as a resume for a prospective software engineer, designer, or product manager -- and for good reason. Personal websites are a great way to show tech or design savvy and provide a more personal and playful format than a standard resume (plus you can put your resume on your website anyway).
+This is a portfolio website of Harsh Verma and it includes all the details from my resume to all the links of various social media profiles and my phone number as well.
